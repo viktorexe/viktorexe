@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Viktor!
 
-I'm a Computer Science student at Manipal University Jaipur, specializing in AI and Machine Learning. By day, I build websites professionally, and by night I create cool Discord bots. I love turning ideas into reality with code!
+Im a Computer Science student at Manipal University Jaipur, specializing in AI and Machine Learning. By day, I build websites professionally, and by night I create cool Discord bots. I love turning ideas into reality with code!
 
 ### What I Do
 - 🎓 Studying AI/ML at university  
