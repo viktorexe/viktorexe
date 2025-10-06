@@ -12,10 +12,10 @@ Im a Computer Science student at Manipal University Jaipur, specializing in AI a
 I work with these technologies regularly:  
 **Languages**: Python, JavaScript, TypeScript, HTML/CSS, C  
 **Frameworks**: Node.js, Django, Flask  
-**Databases**: MongoDB, MySQL  
+**Databases**: MongoDB 
 **AI/ML**: TensorFlow, scikit-learn, NumPy  
 **Tools**: Vercel, Netlify, Render, Canva  
-**Others**: Arduino projects, data visualization  
+**Others**: Arduino projects 
 
 ### 🌍 Let's Connect
 [![Discord](https://img.shields.io/badge/Chat_on_Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dr.viktor_)  
