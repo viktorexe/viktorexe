@@ -1,12 +1,13 @@
-# Hi, I'm Viktor 👋
+# Hi, I'm Viktor 
 
 Building tools and applications for the web.  
-Interested in AI/ML and software engineering.  
+Full-stack web developer (React, Next.js).  
+Python Discord bot developer.  
 Currently working on Code Anatomy.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viktorexe&theme=tokyonight&hide_border=true&show_icons=true)
 
